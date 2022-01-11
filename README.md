@@ -28,6 +28,9 @@ A  Enemy Attack Game made using <strong>Python.<br>
   5.In the lower right corner choose "specify version".<br>
   6.Choose your version and press Install Package.<br>
   
+  ## Have a look here:
+  ![](Ba.jpeg)
+  
   
   
 
