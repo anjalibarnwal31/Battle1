@@ -18,7 +18,7 @@ A  Enemy Attack Game made using <strong>Python.<br>
   ## Prerequisite requirement
   
   - To setup and install **Python [Click here](https://www.python.org/).**
-  - To setup and install **Python [Click here](https://www.jetbrains.com/pycharm/download/#section=windows).**
+  - To setup and install **PyCharm [Click here](https://www.jetbrains.com/pycharm/download/#section=windows).**
   - To setup and install **pip**<br>
   Follow these step:<br>
   1.Open project settings (File > Settings...)<br>
